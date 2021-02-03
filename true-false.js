@@ -6,7 +6,7 @@
 // null 
 // NaN
 
-// Thuthy values are given below
+// Truthy values are given below
 // '0', ' ', [], {}
 const age = 0;
 if (age) {
